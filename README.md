@@ -2,7 +2,7 @@
                                                 by Abeeek
 
 The program is a hotel room rental system that allows customers to choose a room type and rent it for a specified number of days.
-Here's how the program works step-by-step:
+Here's how the program works step by step:
 
 1. The program displays a welcome message and a menu of available rooms with their corresponding prices.
 =================================================================================
