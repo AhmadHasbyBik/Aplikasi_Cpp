@@ -1,5 +1,5 @@
-                                          === CODE EXPLANATION ===
-                                                by Abeeek
+                                             #CODE EXPLANATION
+                                                ##by Abeeek
 
 The program is a hotel room rental system that allows customers to choose a room type and rent it for a specified number of days.
 Here's how the program works step-by-step:
