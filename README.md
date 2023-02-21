@@ -23,7 +23,6 @@ Here's how the program works step by step:
 =================================================================================
 
 3. The program determines the room type selected by the user and sets the corresponding room price and room name using an if-else statement.
-python
 =================================================================================
         if (kamar==1)                                                          
         {                                                                      
