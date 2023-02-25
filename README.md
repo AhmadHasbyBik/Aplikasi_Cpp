@@ -41,7 +41,7 @@ Here's how the program works step by step:
         }                                                                      
 =================================================================================
 
-4. The program displays the selected room type, the price per day, and prompts the user to enter the number of days they want to rent the room.
+4. The program displays the selected room type, the price per day, and prompts the user to enter the number of days they want to rent the room for.
 =================================================================================
 	  cout<<"Kamar yang anda pilih adalah "<<nkamar<<"                            
     dengan harga Rp:"<<harga<<"/Hari"<<endl;                                       
