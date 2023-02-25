@@ -22,7 +22,7 @@ Here's how the program works step by step:
        cin>>kamar;                                                             
 =================================================================================
 
-3. The program determines the room type selected by the user and sets the corresponding room price and room name using an if-else statement.
+3. The program determines the room type selected by the user and sets the corresponding room price and room name using an if else statement.
 =================================================================================
         if (kamar==1)                                                          
         {                                                                      
