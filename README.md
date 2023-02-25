@@ -49,7 +49,7 @@ Here's how the program works step by step:
 	  cin>>lama;                                                                  
 =================================================================================
 
-5. The program calculates the total rental price by multiplying the room price per day by the number of days rented.
+5. The program calculate the total rental price by multiplying the room price per day by the number of days rented.
 markdown
 =================================================================================
     bayar=lama*harga;                                                            
